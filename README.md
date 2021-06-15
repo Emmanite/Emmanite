@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Emmanite
 - 👀 I’m  web developement/design 
-- 🌱 I’m best at HTML, CSS,  java script bootstrap, and Wordpress
+- 🌱 I’m best at HTML, CSS,  java script, bootstrap, and Wordpress
 - 💞️ I’m looking to collaborate on building website completely on coding
 - 📫 How to reach me +2347063781702 call or whatsApp
 <!---
